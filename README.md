@@ -13,8 +13,8 @@
 </p>
 
 ## Navigation
-1. [Kubernetes](#쿠버네티스 짧게 복습하기)
-2. [Observability](#통합모니터링이 왜 필요할까요?)
+1. [쿠버네티스 짧게 복습하기](#쿠버네티스-짧게-복습하기)
+2. [통합모니터링이 왜 필요할까요?](#통합모니터링이-왜-필요할까요?)
 3. [Color](#color)
 4. [Custom Color List](#custom-color-list)
 5. [Section](#section)
