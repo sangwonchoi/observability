@@ -15,24 +15,7 @@
 ## Navigation
 1. [쿠버네티스 짧게 복습하기](#쿠버네티스-짧게-복습하기)
 2. [통합모니터링이 왜 필요할까요?](#통합모니터링이-왜-필요할까요?)
-3. [Color](#color)
-4. [Custom Color List](#custom-color-list)
-5. [Section](#section)
-6. [Reversal](#reversal)
-7. [Height](#height)
-8. [Text](#text)
-9. [Desc](#desc)
-10. [Text Background](#text-background)
-11. [Text Animation](#text-animation)
-12. [Font Color](#fontcolor)
-13. [Font Size](#fontsize)
-14. [Font Align - X](#fontalign)
-15. [Font Align - Y](#fontaligny)
-16. [Desc Size](#descsize)
-17. [Desc Align - X](#descalign)
-18. [Desc Align - Y](#descaligny)
-19. [Rotate](#rotate)
-20. [Demo](#demo)
+3. [Github Clone](#Github-Clone)
 
 # 쿠버네티스 짧게 복습하기
 쿠버네티스(Kubernetes)는 컨테이너화된 애플리케이션을 배포, 확장 및 관리하기 위한 오픈 소스 플랫폼입니다. 구글에서 개발된 Borg 시스템을 기반으로 2014년에 오픈소스로 공개되었고, 현재는 Cloud Native Computing Foundation (CNCF)에 의해 관리되고 있습니다.
@@ -65,3 +48,8 @@
 5. 경험 기반의 운영 개선: 통합 모니터링은 운영팀에게 시스템의 운영 상태와 성능 통계, 경험을 제공합니다. 이를 통해 운영팀은 시스템의 동작을 실시간으로 파악하고, 병목 현상이나 성능 저하 등을 조기에 인지할 수 있습니다. 이는 운영 개선을 위한 의사 결정과 운영 전략 수립에 큰 도움을 줍니다.
 
 6. 종합적으로, 쿠버네티스에서 통합 모니터링 환경을 구축하면 시스템 가시성, 이상 상황 탐지, 자원 최적화, 로그 관리, 경험 기반의 운영 개선 등 다양한 이점을 얻을 수 있습니다. 이는 쿠버네티스 환경에서 안정적이고 효율적인 운영을 위해 필수적입니다.
+
+# Github Clone
+```
+git clone https://github.com/sangwonchoi/observability.git
+```
