@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## Navigation
+# Navigation
 1. [Session Agenda](#Session-Agenda)
 2. [쿠버네티스 짧게 복습하기](#쿠버네티스-짧게-복습하기)
 3. [통합모니터링이 왜 필요할까요?](#통합모니터링이-왜-필요할까요?)
