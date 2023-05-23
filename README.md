@@ -1,4 +1,4 @@
-# observability
+# 진짜진짜 쉬운 통합 운영환경 (Monitoring & Logging)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=통합모니터링&fontSize=90" />
 
