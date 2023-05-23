@@ -19,7 +19,7 @@
 4. [Github Clone](#Github-Clone)
 
 # 쿠버네티스 짧게 복습하기
-https://kubernetes.io/ko/docs/home/
+https://kubernetes.io/ko/docs/home/ \
 쿠버네티스(Kubernetes)는 컨테이너화된 애플리케이션을 배포, 확장 및 관리하기 위한 오픈 소스 플랫폼입니다. 구글에서 개발된 Borg 시스템을 기반으로 2014년에 오픈소스로 공개되었고, 현재는 Cloud Native Computing Foundation (CNCF)에 의해 관리되고 있습니다.
 
 쿠버네티스는 다음과 같은 주요 개념과 구성 요소로 구성되어 있습니다:
