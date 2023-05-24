@@ -27,6 +27,7 @@
 6. Index 관리에 대해 이해한다.
 
 # 쿠버네티스 짧게 복습하기
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 https://kubernetes.io/ko/docs/home/ \
 쿠버네티스(Kubernetes)는 컨테이너화된 애플리케이션을 배포, 확장 및 관리하기 위한 오픈 소스 플랫폼입니다. 구글에서 개발된 Borg 시스템을 기반으로 2014년에 오픈소스로 공개되었고, 현재는 Cloud Native Computing Foundation (CNCF)에 의해 관리되고 있습니다.
 
