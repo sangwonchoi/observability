@@ -48,8 +48,9 @@ https://kubernetes.io/ko/docs/home/ \
 쿠버네티스는 다양한 기능을 제공하여 애플리케이션의 배포, 확장, 관리를 간편하게 할 수 있습니다. 이를 통해 고가용성, 확장성, 안정성이 높은 애플리케이션을 구축하고 운영할 수 있으며, 클라우드 환경 뿐만 아니라 온프레미스 환경에서도 쉽게 사용할 수 있습니다.
 
 # 통합모니터링이 왜 필요할까요?
-https://prometheus.io/docs/introduction/overview/ \
-https://grafana.com/docs/ \
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) \
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)https://prometheus.io/docs/introduction/overview/ \
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)https://grafana.com/docs/ \
 https://thanos.io/v0.26/thanos/getting-started.md/ \
 https://docs.fluentd.org/ 
 https://docs.fluentbit.io/manual/ \
